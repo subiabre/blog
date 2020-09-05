@@ -58,7 +58,7 @@ Behind every challenging part of the data treatment is a reason to it, and overa
 It was a priority of the design to make a bot that was as close to accurate as possible.
 
 ## What I have learned from this bot.
-I consider all the challenges here presented as solved now. Current working bot is `2.2.2` and I'd very much like to leave it like that. I suspect further changes will not have to do with code but with deciding an amount of days good enough for tracking. Now a week back for each bot run does not feel like it leaves enough time for the data to settle. Could possibly be updated to 10.
+I consider all the challenges here presented as solved now. Current working bot is `2.2.2` (it was when I originally wrote this post) and I'd very much like to leave it like that. I suspect further changes will not have to do with code but with deciding an amount of days good enough for tracking. Now a week back for each bot run does not feel like it leaves enough time for the data to settle. Could possibly be updated to 10.
 
 Overcoming these challenges has taught me some things that I, for sure, will remember.
 
