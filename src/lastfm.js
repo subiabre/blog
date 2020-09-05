@@ -1,7 +1,7 @@
 "use strict";
 
 const dotenv = require('dotenv');
-const API = 'http://ws.audioscrobbler.com/2.0/'
+const API = 'https://ws.audioscrobbler.com/2.0/'
 const API_FORMAT = '&format=json'
 
 /**
