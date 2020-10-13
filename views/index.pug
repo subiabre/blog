@@ -11,8 +11,9 @@ html
         meta(name='viewport', content='width=device-width, user-scalable=no')
     body
         block header
-            h1(class='header')
-                a(href='/')= blog.name
+        a(href='/' class='header')
+            h1= blog.name
+            div(class="header-banner" title="A picture of me in front of my desk.")       
         div(class='wrapper')
             block content
                 ul(class='posts-list')
